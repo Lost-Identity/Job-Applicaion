@@ -3,10 +3,7 @@ package com.jobapp.firstjobapp.review;
 import com.jobapp.firstjobapp.company.Company;
 import com.jobapp.firstjobapp.company.CompanyService;
 import org.springframework.stereotype.Service;
-
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class ReviewServiceImpl implements ReviewService{
